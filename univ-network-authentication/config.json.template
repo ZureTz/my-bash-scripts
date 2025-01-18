@@ -1,0 +1,18 @@
+{
+  "server": "AVAILABLE_SERVER",
+  "strict_bind": false,
+  "double_stack": false,
+  "retry_delay": 3000,
+  "retry_times": 10,
+  "n": 200,
+  "type": 1,
+  "acid": 1,
+  "os": "Windows",
+  "name": "Windows 98",
+  "users": [
+    {
+      "username": "YOUR_USERNAME",
+      "password": "YOUR_PASSWORD"
+    }
+  ]
+}

@@ -1,0 +1,1325 @@
+Login time is: Wed 09 Oct 2024 23:05:05 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "af163302e3a21aa62904878bcce65739ad548fd9af41caf7308a54dbde7ef54e",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "57",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728516780,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "af163302e3a21aa62904878bcce65739ad548fd9af41caf7308a54dbde7ef54e",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Success.
+Login time Before time SYNC is: Thu 10 Oct 2024 16:17:10 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "922db9c8faf3cbca6994c47a38a9d4dab9acfbd463930dc9543e2ae147c4e558",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "57",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728548234,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "922db9c8faf3cbca6994c47a38a9d4dab9acfbd463930dc9543e2ae147c4e558",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "ip_already_online_error",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+Time syncing successful.
+Login time AFTER time SYNC is: Thu 10 Oct 2024 16:17:23 CST
+Login time Before time SYNC is: Thu 10 Oct 2024 16:29:01 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "010c4ae88c98803f6cb0518467baecf2fb344fb12cdc622127c816eedca632f5",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728548940,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "010c4ae88c98803f6cb0518467baecf2fb344fb12cdc622127c816eedca632f5",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "ip_already_online_error",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 1.489000
+2024-10-10 16:29:04.851668 (+0800) +1.489000 +/- 1.508925 edu.ntp.org.cn 202.118.1.130 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Thu 10 Oct 2024 16:29:04 CST
+Login time Before time SYNC is: Thu 10 Oct 2024 23:05:05 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "82c5b4d1503514fe6d2216dbf6b50b8fec47f1590a6a11bb2616bb35444beb92",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728598262,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "82c5b4d1503514fe6d2216dbf6b50b8fec47f1590a6a11bb2616bb35444beb92",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 25559.606826
+2024-10-11 06:11:09.479568 (+0800) +25559.606826 +/- 1.509949 edu.ntp.org.cn 202.118.1.81 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Fri 11 Oct 2024 06:11:11 CST
+Login time Before time SYNC is: Sat 12 Oct 2024 01:05:04 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+login error: http://login.cup.edu.cn/cgi-bin/get_challenge?callback=sdu&username=2022011541&ip=&_=1728666302: Dns Failed: resolve dns name 'login.cup.edu.cn:80': failed to lookup address information: Try again
+Authencation successful.
+Syncing system time...
+Time sycing failed.
+Login time Before time SYNC is: Sat 12 Oct 2024 05:06:30 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "b01cfa6d09312676ee543898311576308f99ab984fc905e623814c09656be399",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "58",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728703867,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "b01cfa6d09312676ee543898311576308f99ab984fc905e623814c09656be399",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 23077.888330
+2024-10-12 11:31:12.344348 (+0800) +23077.888330 +/- 1.509732 edu.ntp.org.cn 202.112.29.82 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Sat 12 Oct 2024 11:31:13 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Sat 12 Oct 2024 12:11:43 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "bf89210fb051537dab2c1ae5884489b8dd14dda4c48b37f4756ca92f31779cdb",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728706302,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "bf89210fb051537dab2c1ae5884489b8dd14dda4c48b37f4756ca92f31779cdb",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "ip_already_online_error",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 1.490702
+2024-10-12 12:11:47.229613 (+0800) +1.490702 +/- 1.510124 edu.ntp.org.cn 202.112.31.197 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Sat 12 Oct 2024 12:11:48 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Sun 13 Oct 2024 01:05:04 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+login error: http://login.cup.edu.cn/cgi-bin/get_challenge?callback=sdu&username=2022011541&ip=&_=1728752702: Network Error: Unexpected EOF
+Authencation successful.
+Syncing system time...
+Time sycing failed.
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Sun 13 Oct 2024 11:52:30 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "58af2251306b8de5bd7741d548bef1761e067615e7f7209ca48f1c219a5e5c83",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728791549,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "58af2251306b8de5bd7741d548bef1761e067615e7f7209ca48f1c219a5e5c83",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "ip_already_online_error",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 1.499811
+2024-10-13 11:52:33.966381 (+0800) +1.499811 +/- 1.510255 edu.ntp.org.cn 202.118.1.81 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Sun 13 Oct 2024 11:52:35 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Sun 13 Oct 2024 14:45:29 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "662788a1305fab081e86c057dda6c96dbf508783a4649d22217a55ac49443f9a",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728801928,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "662788a1305fab081e86c057dda6c96dbf508783a4649d22217a55ac49443f9a",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "ip_already_online_error",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 1.530076
+2024-10-13 14:45:33.83205 (+0800) +1.530076 +/- 1.535540 edu.ntp.org.cn 202.112.29.82 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Sun 13 Oct 2024 14:45:34 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Sun 13 Oct 2024 23:05:04 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "bcacf577dd495e1c23399079940b6ebf4957d99df2bcfc7f26facdd0f985032d",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728862694,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "bcacf577dd495e1c23399079940b6ebf4957d99df2bcfc7f26facdd0f985032d",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 30791.811916
+2024-10-14 07:38:18.289199 (+0800) +30791.811916 +/- 1.511291 edu.ntp.org.cn 202.112.31.197 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Mon 14 Oct 2024 07:38:19 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Mon 14 Oct 2024 23:05:05 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "0252fd0708e7f6ee8fdd267cdbf5252e329936aaa8402e332482f796592ee125",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1728952997,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "0252fd0708e7f6ee8fdd267cdbf5252e329936aaa8402e332482f796592ee125",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 34694.006959
+2024-10-15 08:43:21.767634 (+0800) +34694.006959 +/- 1.510394 edu.ntp.org.cn 202.118.1.81 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Tue 15 Oct 2024 08:43:23 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Tue 15 Oct 2024 22:17:24 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "55583de84f02b2c30d6d09bfbd8f00bdcd51704ebaf10f2f564835ca67f98aee",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729001843,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "55583de84f02b2c30d6d09bfbd8f00bdcd51704ebaf10f2f564835ca67f98aee",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "ip_already_online_error",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 1.508161
+2024-10-15 22:17:28.435312 (+0800) +1.508161 +/- 1.511375 edu.ntp.org.cn 202.118.1.130 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Tue 15 Oct 2024 22:17:30 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Tue 15 Oct 2024 23:05:05 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "6009af29519309517cf011160bf25ff92f8b8ec559992d2d26c24a8b49b01c43",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729035161,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "6009af29519309517cf011160bf25ff92f8b8ec559992d2d26c24a8b49b01c43",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 30457.988571
+2024-10-16 07:32:45.488006 (+0800) +30457.988571 +/- 1.510007 edu.ntp.org.cn 202.112.31.197 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Wed 16 Oct 2024 07:32:47 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Wed 16 Oct 2024 23:05:05 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "940f38acc58b63d890a70e497bae6294deb4218499884198d5249f009703afc6",
+    ),
+    client_ip: "10.10.119.92",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.92",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729116652,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "940f38acc58b63d890a70e497bae6294deb4218499884198d5249f009703afc6",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.92",
+    online_ip: "10.10.119.92",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 25548.678407
+2024-10-17 06:10:56.77563 (+0800) +25548.678407 +/- 1.510135 edu.ntp.org.cn 202.118.1.81 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Thu 17 Oct 2024 06:10:57 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Thu 17 Oct 2024 23:05:06 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "5f064b756ce1cd8128c07849fc0e1b393c08b0a12db725d0568c2c3c68ea26eb",
+    ),
+    client_ip: "10.10.119.66",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.66",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729203062,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "5f064b756ce1cd8128c07849fc0e1b393c08b0a12db725d0568c2c3c68ea26eb",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.66",
+    online_ip: "10.10.119.66",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 25558.527978
+2024-10-18 06:11:06.890483 (+0800) +25558.527978 +/- 1.510110 edu.ntp.org.cn 202.118.1.130 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Fri 18 Oct 2024 06:11:08 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Sat 19 Oct 2024 01:05:04 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "4723360dfaa2cc0997a91ce22beb2d2c9dbb81133f3cbd175a3f5d925781da90",
+    ),
+    client_ip: "10.10.119.66",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.66",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729289449,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "4723360dfaa2cc0997a91ce22beb2d2c9dbb81133f3cbd175a3f5d925781da90",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.66",
+    online_ip: "10.10.119.66",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 9174.329069
+2024-10-19 06:10:53.870894 (+0800) +9174.329069 +/- 9174.607714 edu.ntp.org.cn 202.112.29.82 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Sat 19 Oct 2024 08:43:48 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Sun 20 Oct 2024 01:05:08 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "8e4ec4666978f5ca8fb59f6f1617d3ef513b0b83eaaa6d438649c5040d51b8d3",
+    ),
+    client_ip: "10.10.119.66",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.66",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729375863,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "8e4ec4666978f5ca8fb59f6f1617d3ef513b0b83eaaa6d438649c5040d51b8d3",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.66",
+    online_ip: "10.10.119.66",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 18356.350243
+2024-10-20 06:11:07.187690 (+0800) +18356.350243 +/- 1.511364 edu.ntp.org.cn 202.112.31.197 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Sun 20 Oct 2024 06:11:08 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Sun 20 Oct 2024 23:05:05 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "428fbfe3b7567a668d0ff2f53d998bba89b3a270db02e19c5841a696371eb81c",
+    ),
+    client_ip: "10.10.119.66",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.66",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729462277,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "428fbfe3b7567a668d0ff2f53d998bba89b3a270db02e19c5841a696371eb81c",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.66",
+    online_ip: "10.10.119.66",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 25573.684598
+2024-10-21 06:11:21.613215 (+0800) +25573.684598 +/- 1.532842 edu.ntp.org.cn 202.112.29.82 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Mon 21 Oct 2024 06:11:23 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Mon 21 Oct 2024 14:24:04 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "4020dc22ac7b5cd674f5d7a15ef3ab2be2be471cd95d74052993dba518f22ff5",
+    ),
+    client_ip: "10.10.119.66",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.66",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729491843,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "4020dc22ac7b5cd674f5d7a15ef3ab2be2be471cd95d74052993dba518f22ff5",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.66",
+    online_ip: "10.10.119.66",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "ip_already_online_error",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 1.491902
+2024-10-21 14:24:07.747523 (+0800) +1.491902 +/- 1.510327 edu.ntp.org.cn 202.118.1.130 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Mon 21 Oct 2024 14:24:09 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Mon 21 Oct 2024 23:05:04 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "08528d7070fc72d380ffd66c41293d742f7dde32ef370190609dd521550a4b91",
+    ),
+    client_ip: "10.10.119.66",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "59",
+    ),
+    online_ip: "10.10.119.66",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729548269,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "08528d7070fc72d380ffd66c41293d742f7dde32ef370190609dd521550a4b91",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.66",
+    online_ip: "10.10.119.66",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 25166.232829
+2024-10-22 06:04:33.22654 (+0800) +25166.232829 +/- 1.509677 edu.ntp.org.cn 202.118.1.130 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Tue 22 Oct 2024 06:04:34 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Tue 22 Oct 2024 11:44:20 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "ce9baec41c7c64da8cda50feb3ab5659803cb22066631f1e6ebeb512d885b1f2",
+    ),
+    client_ip: "10.10.119.66",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.66",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729568659,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "ce9baec41c7c64da8cda50feb3ab5659803cb22066631f1e6ebeb512d885b1f2",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.66",
+    online_ip: "10.10.119.66",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "ip_already_online_error",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 1.498851
+2024-10-22 11:44:23.703951 (+0800) +1.498851 +/- 1.510356 edu.ntp.org.cn 202.118.1.130 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Tue 22 Oct 2024 11:44:25 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Tue 22 Oct 2024 23:05:07 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "e8918c181a72fc1735bf3519358589100460c898e15a206ace8036e5df42f6a6",
+    ),
+    client_ip: "10.10.119.66",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.66",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729640162,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "e8918c181a72fc1735bf3519358589100460c898e15a206ace8036e5df42f6a6",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.66",
+    online_ip: "10.10.119.66",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "login_ok",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 30657.831743
+2024-10-23 07:36:07.26103 (+0800) +30657.831743 +/- 1.536021 edu.ntp.org.cn 202.112.29.82 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Wed 23 Oct 2024 07:36:08 CST
+
+Checking Wifi connection...
+Wifi is connected.
+Login time BEFORE time SYNC is: Wed 23 Oct 2024 16:39:59 CST
+login user: User {
+    username: "2022011541",
+    password: "qQ13243579",
+    ip: None,
+    if_name: None,
+}
+miss both ip and if_name, will auto detect ip
+ChallengeResponse {
+    challenge: Some(
+        "583753b3f187c224adf5727b065ab5caf947f42bae3ad2ac07315343925fec5f",
+    ),
+    client_ip: "10.10.119.66",
+    ecode: I(
+        0,
+    ),
+    error_msg: "",
+    expire: Some(
+        "60",
+    ),
+    online_ip: "10.10.119.66",
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    st: 1729672798,
+}
+will try at most 10 times...
+try 1/10: success
+PortalResponse {
+    server_flag: 0,
+    services_intf_server_ip: "127.0.0.1",
+    services_intf_server_port: "8001",
+    access_token: "583753b3f187c224adf5727b065ab5caf947f42bae3ad2ac07315343925fec5f",
+    checkout_date: 0,
+    ecode: I(
+        0,
+    ),
+    error: "ok",
+    error_msg: "",
+    client_ip: "10.10.119.66",
+    online_ip: "10.10.119.66",
+    real_name: "",
+    remain_flux: 0,
+    remain_times: 0,
+    res: "ok",
+    srun_ver: "SRunCGIAuthIntfSvr V1.18 B20231218",
+    suc_msg: "ip_already_online_error",
+    sysver: "1.01.20231218",
+    username: "2022011541",
+    wallet_balance: 0,
+    st: 0,
+}
+Authencation successful.
+Syncing system time...
+CLOCK: time stepped by 1.487154
+2024-10-23 16:40:03.236723 (+0800) +1.487154 +/- 1.508786 edu.ntp.org.cn 202.118.1.130 s1 no-leap
+Time syncing successful.
+Login time AFTER time SYNC is: Wed 23 Oct 2024 16:40:04 CST
