@@ -5,18 +5,20 @@
 # If .bootagain file is not detected, the script will create the file and then do nothing
 
 # First sleep for 30 seconds to ensure that the system is fully booted
-sleep 30
+sleep 20
 
 # Check if .bootagain file is detected
 if [ -f $HOME/.bootagain ]; then
   # Remove the file
-  rm $HOME/.bootagain
+  rm -f $HOME/.bootagain
   # Reboot the system
-  reboot
+  /usr/bin/systemctl reboot
+  exit 0
 fi
 
 # Create the file
 touch $HOME/.bootagain
+chmod a+rw $HOME/.bootagain
 
 # Exit
 exit 0
